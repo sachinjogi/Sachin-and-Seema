@@ -2,7 +2,7 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <square150x150logo src="/mstile-150x150.png"/>
+            S <span class="fa fa-heart pulse2" style="color: red"></span> S 
             <TileColor>#da532c</TileColor>
         </tile>
     </msapplication>
